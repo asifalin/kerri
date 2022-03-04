@@ -1,0 +1,312 @@
+body{
+        margin: 0%;
+        padding: 0%;
+}
+
+#navbar{
+    /* background-color:aqua; */
+    background-image: url(./best_professional_dslr_camera\ \(2\).jpg);
+    background-size: cover;
+    color: white;
+}
+.navbaritems{
+
+
+    display: flex;
+}
+
+.moreitem{
+    display: flex;
+    margin-left: 55%;
+    
+}
+.moreitem p{
+    margin-left: 18%;
+  
+}
+.kare h1{
+position: relative;
+left: 44%;
+}
+/* home sction style */
+.home{
+    text-align: center;
+}
+.heading{
+    padding-top: 50px;
+    font-size: 28px;
+}
+.iam{
+    font-size: 43px;
+    /* float: left; */
+    margin-right: 30%;
+}
+.downlode{
+    padding:  7px 12px;
+    border-radius: 17px;
+    margin-bottom: 22px;
+    background-color: transparent;
+    color: white;
+}
+.hom{
+    color: red;
+}
+.btncv{
+    background-color: transparent;
+    padding: 7px 12px;
+    border-radius: 12px;
+    margin-bottom: 50px;
+    color: black;
+}
+
+/* about secton */
+.about{
+    display: flex;
+    padding: 50px 0px;
+}
+
+.pic1{
+    width: 500px;
+    margin-left: 50px;
+    height: 400px;
+    bottom:50px;
+
+}
+.aboutpera{
+    margin-left: 19px;
+    width: 50%;
+}
+.abouheader{
+    display: flex;
+}
+.aboutme{
+    font-size: 27px;
+}
+.asif{
+    color: red;
+}
+.vv{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 350px;
+    right: 500px;
+    margin: 4px;
+    border-radius: 50%;
+}
+ /* section ABOUT end  here  */
+ /* section our services start here  */
+ .our2{
+     background-color: rgb(218, 211, 211);
+ }
+ .ourservices{
+    text-align: center;
+}
+ .allgrp{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.allgrp1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.grpsec{
+    margin-right: 50px;
+}
+.grpsec1{
+    margin-right: 50px;
+}
+.grpsec4{
+    margin-left: 50px;
+}
+.grpsec5{
+    margin-left: 50px;
+    position: relative;
+    top: 23px;
+}
+/* section freelancer services start here  */
+#freelancer{
+    text-align: center;
+    margin: 70px;
+    margin-bottom: 80px;
+}
+.bt1{
+    padding: 5px 15px;
+    background-color: rgb(223, 75, 75);
+    color: white;
+    border-radius: 5px;
+}
+/* section freelancer services end here */
+/* section our client services start here */
+#ourclient{
+    background-color: rgb(217, 229, 241);
+}
+.client{
+    text-align: center;
+}
+.aj{
+    width: 60px;
+    height: 80px;
+    border-radius: 40px;
+}
+/* section our client services end here */
+/* section our work services  start  here */
+.ourwork{
+    text-align: center;
+}
+.alliteam{
+    display: flex;
+
+    margin-left: 55%;
+}
+.alliteam p{
+    margin-left: 5%;
+    position: relative;
+    right: 245px;
+    top: 35px;
+}
+.bt2{
+    position: relative;
+    right: 190px;
+    padding: 2px 15px;
+border-radius: 10px;
+top: 70px;
+background-color: rgb(240, 42, 42);
+color: white;
+}
+/* section our work services end here */
+/* section box services start here */
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 70px;
+    background-color: rgb(230, 234, 238);
+
+
+}
+.p1{
+    background-color: red; 
+    height: 200px;
+    width: 400px;
+    margin: 1%;
+    background-size: cover;
+    position: relative;
+    left: 30px;
+}
+/* section box services end here */
+/* section our blog services start here */
+.mainblogdiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+.ourblog{
+    text-align: center;
+ padding: 60px 0px;
+}
+
+.blogdiv1{
+    margin-left: 32px;
+    border: 1px solid gray;
+    padding: 24px;
+
+}
+/* section our blog services end here */
+/* section our blog services start here */
+#contactus{
+    padding: 5%;
+}
+.detail{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.yourmsg input{
+    padding: 1%;
+    width: 45%;
+    height: 20px;
+    margin: 1%;
+}
+.sub{
+    width: 1170px;
+    height: 40px;
+    margin-left: 10px;
+}
+.text textarea{
+    height: 70px;
+    width: 1170px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.text button{
+    margin-left: 10px;
+   background-color: rgb(243, 70, 70);
+   color: white;
+   padding: 1.5%;
+   border-radius: 5%;
+  margin-left: 87%;
+
+}
+/* section endsec services start here */
+#endsec{
+    background-color: black;
+    padding: 3%;
+    color: white;
+}
+.endpic img{
+    width: 5%;
+    margin: 0.5%;
+  border-radius: 100%;
+
+}
+.endpic{
+    margin-left: 40%;
+}
+.endpic p{
+    margin-right: 5%;
+}
+.srbt{
+margin-left: 37%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
